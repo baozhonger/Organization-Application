@@ -1,3 +1,3 @@
-* **name**:
-* **grade**:
-* **introduce yourself**:
+ · name:
+ · grade:
+ · introduce yourself:
