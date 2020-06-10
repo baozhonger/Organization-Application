@@ -2,9 +2,14 @@
 README before being a member of this org.  
 **Greetings to students from Baoji Middle School all over the world.**  
 
-# How to apply?
+---
+
+# Becoming a Member?🔥🔥🔥
 Being proud of our school, you must be excited to join the team. It's simple to join the team.  
-You just need to **open an issue**, and then wait until you get a response.  
+## You just need to **open an issue**, and then wait until you get a response.  
+> Press *issue* and then *open a new issue*.  
+
+---
 
 # About Baoji Middle School
 Founded in 1940, Baoji Middle School is the best school with the best teachers and students.👍  
