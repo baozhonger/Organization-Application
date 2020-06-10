@@ -1,4 +1,4 @@
-# Orgnization-Application
+# Organization-Application
 README before being a member of this org.  
 **Greetings to students from Baoji Middle School all over the world.**  
 
