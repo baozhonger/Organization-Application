@@ -1,15 +1,16 @@
+> 🔥🔥🔥[点击这里，发起一个issue，填写姓名、年级、简介，提交issue，就可以被邀请进组织了😁](https://github.com/Baoji-Middle-School/Organization-Application/issues)🔥🔥🔥
+
+---
+
 # Organization-Application
 README before being a member of this org.  
 **Greetings to students from Baoji Middle School all over the world.**  
 
----
 
 # Becoming a Member?🔥🔥🔥
 Being proud of our school, you must be excited to join the team. It's simple to join the team.  
 ## You just need to **open an issue**, and then wait until you get a response.  
-> 🔥🔥🔥[点击这里，发起一个issue，填写姓名、年级、简介，提交issue，就可以被邀请进组织了😁](https://github.com/Baoji-Middle-School/Organization-Application/issues)🔥🔥🔥
 
----
 
 # About Baoji Middle School
 Founded in 1940, Baoji Middle School is the best school with the best teachers and students.👍  
