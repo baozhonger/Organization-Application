@@ -7,7 +7,7 @@ README before being a member of this org.
 # Becoming a Member?🔥🔥🔥
 Being proud of our school, you must be excited to join the team. It's simple to join the team.  
 ## You just need to **open an issue**, and then wait until you get a response.  
-> Press *issue* and then *open a new issue*.  
+> 🔥🔥🔥[点击这里，发起一个issue，填写姓名、年级、简介，提交issue，就可以被邀请进组织了😁](https://github.com/Baoji-Middle-School/Organization-Application/issues)🔥🔥🔥
 
 ---
 
